@@ -3,5 +3,5 @@ wont:
 app:
   redis:
     ecat:
-      hostname: 'random-host-editted-8'
+      hostname: 'random-host-editted-9'
       port: 6378
