@@ -4,5 +4,5 @@ spring:
 app:
   redis:
     ecat:
-      hostname: 'random-host'
+      hostname: 'random-host--xxxxx'
       port: 6378
