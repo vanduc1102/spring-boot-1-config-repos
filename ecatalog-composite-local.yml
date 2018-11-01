@@ -6,4 +6,4 @@ app:
       hostname: random-host-editted-13
   asset-service:
     endpoints:
-      cash-back-balance: http://random
+      cash-back-balance: http://random222
