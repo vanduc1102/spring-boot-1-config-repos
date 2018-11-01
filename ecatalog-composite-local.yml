@@ -1,5 +1,5 @@
 app:
   redis:
     ecat:
-      hostname: 'random-host'
+      hostname: 'random-host-editted'
       port: 6378
