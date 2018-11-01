@@ -3,5 +3,7 @@ wont:
 app:
   redis:
     ecat:
-      hostname: 'random-host-editted-13'
-      port: 6378
+      hostname: random-host-editted-13
+  asset-service:
+    endpoints:
+      cash-back-balance: http://random
