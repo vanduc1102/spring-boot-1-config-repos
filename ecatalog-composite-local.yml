@@ -6,4 +6,4 @@ app:
       hostname: local random-host-editted-13
   asset-service:
     endpoints:
-      cash-back-balance: http://local-random-6
+      cash-back-balance: http://local-random-7
