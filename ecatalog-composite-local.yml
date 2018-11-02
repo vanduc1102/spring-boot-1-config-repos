@@ -1,9 +1,9 @@
 wont:
-  refesh: wont fresh
+  refesh: local wont fresh
 app:
   redis:
     ecat:
-      hostname: random-host-editted-13
+      hostname: local random-host-editted-13
   asset-service:
     endpoints:
-      cash-back-balance: http://random4
+      cash-back-balance: http://local-random-5
