@@ -1,0 +1,9 @@
+wont:
+  refesh: default-wont fresh
+app:
+  redis:
+    ecat:
+      hostname: default-random-host-editted-13
+  asset-service:
+    endpoints:
+      cash-back-balance: http://default-random4
